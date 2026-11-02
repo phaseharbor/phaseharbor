@@ -1,16 +1,15 @@
-## Hi there 👋
+# PhaseHarbor
 
-<!--
-**phaseharbor/phaseharbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Offline sound sessions for Android.**
+Binaural, monaural, alternating and isochronic beats, layered with noise and nature soundscapes, synthesized live on your phone.
 
-Here are some ideas to get you started:
+- Fully offline: the app doesn't even request internet access
+- No ads, no tracking, no accounts, no subscription
+- 40 built-in presets plus a custom session composer
+- Share your presets as JSON or QR codes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Made in Switzerland by an independent developer.
+
+🌐 [phaseharbor.app](https://phaseharbor.app) · 💬 [Discord](https://discord.gg/acTcWS8nHw) · 𝕏 [@phaseharbor](https://x.com/phaseharbor) · 📷 [Instagram](https://www.instagram.com/phaseharbor/)
+
+Coming soon to Google Play.
