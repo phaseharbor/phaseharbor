@@ -10,6 +10,6 @@ Binaural, monaural, alternating and isochronic beats, layered with noise and nat
 
 Made in Switzerland by an independent developer.
 
-🌐 [phaseharbor.app](https://phaseharbor.app) · 💬 [Discord](https://discord.gg/acTcWS8nHw) · 𝕏 [@phaseharbor](https://x.com/phaseharbor) · 📷 [Instagram](https://www.instagram.com/phaseharbor/)
+🌐 [phaseharbor.app](https://phaseharbor.app) · 💬 [Discord](https://discord.gg/acTcWS8nHw) · 𝕏 [@phaseharbor](https://x.com/phaseharbor) · 📷 [Instagram](https://www.instagram.com/phaseharbor/) · 📘 [Facebook](https://www.facebook.com/PhaseHarbor) · ▶️ [YouTube](https://www.youtube.com/@phaseharbor) · 💼 [LinkedIn](https://www.linkedin.com/company/phaseharbor)
 
 Coming soon to Google Play.
