@@ -12,4 +12,4 @@ Made in Switzerland by an independent developer.
 
 🌐 [phaseharbor.app](https://phaseharbor.app) · 💬 [Discord](https://discord.gg/acTcWS8nHw) · 𝕏 [@phaseharbor](https://x.com/phaseharbor) · 📷 [Instagram](https://www.instagram.com/phaseharbor/) · 🧵 [Threads](https://www.threads.com/@phaseharbor) · 🦋 [Bluesky](https://bsky.app/profile/phaseharbor.bsky.social) · 🎵 [TikTok](https://www.tiktok.com/@phaseharbor) · 📘 [Facebook](https://www.facebook.com/PhaseHarbor) · ▶️ [YouTube](https://www.youtube.com/@phaseharbor) · 👽 [Reddit](https://www.reddit.com/user/PhaseHarbor/) · 💼 [LinkedIn](https://www.linkedin.com/company/phaseharbor)
 
-Coming soon to Google Play.
+📲 [Get it on Google Play](https://play.google.com/store/apps/details?id=app.phaseharbor)
